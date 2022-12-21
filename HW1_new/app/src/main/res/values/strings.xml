@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+Copyright (C) 2012 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+
+<resources>
+        <string name="app_name">Temperature Converter</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="convert">Convert</string>
+        <string name="hint">Enter Temperature</string>
+        <string name="help_message">"Fahrenheit :\nThe Fahrenheit scale is a temperature scale based on one proposed in 1724 by the physicist Daniel Gabriel Fahrenheit (1686–1736).It uses the degree Fahrenheit (symbol: °F) as the unit. Several accounts of how he originally defined his scale exist, but the original paper suggests the lower defining point, 0 °F, was established as the freezing temperature of a solution of brine made from a mixture of water, ice, and ammonium chloride (a salt).Originally set at 90 °F, then " +
+                "96 °F.\n\n Celsius:\nThe degree Celsius is the unit of temperature on the Celsius scale(originally known as the centigrade scale outside Sweden),one of 2 temperature scales used in the International System of Units (SI), alongside the Kelvin scale. The degree Celsius (symbol: °C) can refer to a specific temperature on the Celsius scale or a unit to indicate a difference or range between two temperatures. It is named after the Swedish astronomer Anders Celsius (1701–1744), who developed a similar temperature scale in 1742."
+        </string>
+</resources>
